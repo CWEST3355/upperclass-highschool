@@ -1,0 +1,18 @@
+New Blank Document (Dim 2560x2048)
+Background Black
+Copy BG
+Make Strokes (Vertical, Long, Skinny (Angle 90, Roundess 1-5%))
+Free Transform -> Warp (waves)
+Guassian Blur (Really blurry (9))
+Copy Layer, Select It
+Filter -> Sketch -> Chrome (default values)
+Blending Options
+	Default:
+		Opacity: 70%
+	Gradient Overlay:
+		Mode: Color
+		Opacity: 80%
+		Gradient: Rainbow
+		Angle: 15
+		Scale: 70%
+Final Result (explain that it is big enough to be used on most screen devices)
