@@ -17,7 +17,7 @@ Includes:
   - Senior year
     - Distance Learning
       - Astromy 1040
-      - English 2100
+      - English 2010
       - Geology 1010
       - Humanities 1010
       - Philosophy 205G
